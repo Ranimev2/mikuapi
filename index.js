@@ -16,9 +16,9 @@ const corsOptions = {
 app.use(cors(corsOptions));
 // app.use("/otakudesu", otakudesu);
 app.use("/animeindo", animeIndo);
-app.use("/luckyanime", kuramanime);
+app.use("/miku", kuramanime);
 
 app.get("/", (req, res) => {
-  res.send("Welcome To NakanoMiku Anime Rest API");
+  res.send("Welcome To miku Anime Rest API");
 });
 app.listen(port, () => console.log("Server listen on port " + port));
