@@ -5,14 +5,14 @@
 # AnimeIndo-Rest-API
 
 <p align="center">
-  <a href="https://github.com/LuckyIndraEfendi">
+  <a href="https://myranime.my.id">
     <img src="https://avatars.githubusercontent.com/u/90430786?v=4" alt="Logo" width="150" >
   </a>
 
   <h3 align="center">AnimeIndo-Rest-API</h3>
 
   <p align="center">
-    <samp>A free anime app restful API serving anime from <a href="http://kyouka-live.web.app/">LuckyAnime</a></samp>
+    <samp>A free anime app restful API serving anime from <a href="http://ranimev3.site/">LuckyAnime</a></samp>
     <br />
     <a href="#routes"><strong>Explore the api »</strong></a>
     <br />
