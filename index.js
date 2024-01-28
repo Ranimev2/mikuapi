@@ -19,6 +19,6 @@ app.use("/animeindo", animeIndo);
 app.use("/luckyanime", kuramanime);
 
 app.get("/", (req, res) => {
-  res.send("Welcome To Lucky Anime Rest API");
+  res.send("Welcome To NakanoMiku Anime Rest API");
 });
 app.listen(port, () => console.log("Server listen on port " + port));
