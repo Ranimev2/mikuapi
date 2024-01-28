@@ -13,7 +13,7 @@ const {
 
 router.get("/", function (req, res) {
   res.json({
-     message: "Welcome to the LuckyAnime API!",
+     message: "Welcome to the NakanoMiku API!",
   });
 });
 router.get("/ongoing", getOngoingAnime);
